@@ -1,2 +1,2 @@
-# SIGMA-ULTIMATE-VERSION
-VERSION
+# SigmaSpace
+ Sigma Space
