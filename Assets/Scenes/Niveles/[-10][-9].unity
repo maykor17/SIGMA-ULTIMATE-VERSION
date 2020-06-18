@@ -175,7 +175,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c13047b7d2ab6f545a690aa967b1d814, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8ec79a0496e859e42a7db11302f93f56, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -194,8 +194,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 41754671}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: -5.8, z: 0}
-  m_LocalScale: {x: 3.4724326, y: 3.4724326, z: 3.4724326}
+  m_LocalPosition: {x: 0, y: -12.4, z: -0}
+  m_LocalScale: {x: 1.9231374, y: 1.9231374, z: 4.4650517}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
@@ -774,7 +774,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 9.1835e-41, w: 2.0387483e-38}
+  m_BoundingSphereOverride: {x: 0, y: -0.20797348, z: NaN, w: -9.614772e-29}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1023,6 +1023,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 3510294977997687150, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6972096549963898038, guid: a7db77a21c3ad2846901fb4796211989,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -1042,6 +1047,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -0.3000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 2344349546112004998, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7068537319118345047, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036549416724911690, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4759222048603525309, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979753162627000417, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6087219449140911315, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7668394164421192564, guid: a7db77a21c3ad2846901fb4796211989,
         type: 3}

@@ -825,7 +825,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 3.8077e-41, y: 1.05e-43, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0.041806415, y: 0.044003647, z: 0.036679458, w: -1.9732333e-33}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -914,6 +914,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 7668394165001868922, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7668394165001868921, guid: a7db77a21c3ad2846901fb4796211989,
         type: 3}
@@ -1060,6 +1065,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 3510294977997687150, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6972096549963898038, guid: a7db77a21c3ad2846901fb4796211989,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -1079,6 +1089,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -0.3000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 2344349546112004998, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7068537319118345047, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036549416724911690, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4759222048603525309, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4979753162627000417, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6087219449140911315, guid: a7db77a21c3ad2846901fb4796211989,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7668394164421192564, guid: a7db77a21c3ad2846901fb4796211989,
         type: 3}
